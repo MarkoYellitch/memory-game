@@ -1,0 +1,25 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	height: 200px;
+	width: 500px;
+}
+.image-size {
+	width: 100px;
+	height: 100px;
+}
+
+h3 {
+	display: inline-block;
+}
+.start-again {
+	background-color: #af4c4c;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	margin-left: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1rem;
+}
